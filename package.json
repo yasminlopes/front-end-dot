@@ -1,0 +1,18 @@
+{
+  "name": "prova-tecnica-jr",
+  "version": "1.0.0",
+  "description": "desenvolvido por @yasminlopes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasmin Lopes",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

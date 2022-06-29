@@ -1,0 +1,9 @@
+@import './global/global.css';
+@import './global/footer.css';
+
+@import './utilidades/paletacores.css';
+@import './utilidades/componentes.css';
+
+@import './home/header.css';
+@import './home/lista.css';
+@import './home/circle.css';
